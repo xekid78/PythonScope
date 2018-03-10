@@ -1,0 +1,2 @@
+# PythonScope
+スコープの理解
